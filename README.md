@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and thinking and create new ideas
 - 🌱 I’m currently learning web , desktop , android , iot developing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via : mo7amed.sala77@gmail.com
+- 📫 Reach me via : mo7amed.sala77@gmail.com
 
 <!---
 MohamedIbnSalah/MohamedIbnSalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
